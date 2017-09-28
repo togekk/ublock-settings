@@ -1,0 +1,14 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<table>
+  <tbody *ngFor="let row of list; let r = row">
+    <!-- {{get(r)}} -->
+    <tr>
+      <td *ngFor="let item of row.split(' ')">
+        <span [hidden]="['noop', 'block', 'allow'].includes(item)">{{item}}</span>
+        <span [hidden]="item !== 'noop'">gray</span>
+        <span [hidden]="item !== 'block'">red</span>
+        <span [hidden]="item !== 'allow'">green</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
