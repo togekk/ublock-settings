@@ -1,0 +1,299 @@
+{
+  "timeStamp": 1506584525706,
+  "version": "1.14.10",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "alwaysDetachLogger": false,
+    "autoUpdate": true,
+    "cloudStorageEnabled": false,
+    "collapseBlocked": true,
+    "colorBlindFriendly": false,
+    "contextMenuEnabled": true,
+    "dynamicFilteringEnabled": true,
+    "externalLists": "https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt\nhttps://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt\nhttps://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt",
+    "firewallPaneMinimized": true,
+    "hyperlinkAuditingDisabled": true,
+    "ignoreGenericCosmeticFilters": false,
+    "largeMediaSize": 50,
+    "parseAllABPHideFilters": true,
+    "prefetchingDisabled": true,
+    "requestLogMaxEntries": 1000,
+    "showIconBadge": true,
+    "tooltipsDisabled": false,
+    "webrtcIPAddressHidden": true
+  },
+  "selectedFilterLists": [
+    "https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt",
+    "https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt",
+    "https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt",
+    "VIE-0",
+    "TUR-0",
+    "SWE-0",
+    "SVN-0",
+    "spa-0",
+    "RUS-0",
+    "RUS-2",
+    "POL-1",
+    "POL-0",
+    "NLD-0",
+    "LVA-0",
+    "LTU-0",
+    "KOR-1",
+    "KOR-0",
+    "KOR-2",
+    "JPN-0",
+    "ITA-0",
+    "ITA-1",
+    "ISR-0",
+    "ISL-0",
+    "IRN-0",
+    "IDN-0",
+    "HUN-0",
+    "GRC-0",
+    "FRA-0",
+    "FIN-0",
+    "EST-0",
+    "DNK-0",
+    "DEU-0",
+    "CZE-0",
+    "CHN-0",
+    "CHN-1",
+    "CHN-2",
+    "BGR-0",
+    "ara-0",
+    "plowe-0",
+    "mvps-0",
+    "hphosts",
+    "fanboy-ultimate",
+    "dpollock-0",
+    "fanboy-social",
+    "fanboy-cookiemonster",
+    "fanboy-thirdparty_social",
+    "fanboy-annoyance",
+    "adguard-annoyance",
+    "spam404-0",
+    "disconnect-malware",
+    "malware-1",
+    "malware-0",
+    "disconnect-malvertising",
+    "fanboy-enhanced",
+    "easyprivacy",
+    "disconnect-tracking",
+    "easylist",
+    "adguard-generic",
+    "awrl-0",
+    "aak-continued",
+    "ublock-unbreak",
+    "ublock-privacy",
+    "ublock-experimental",
+    "ublock-badware",
+    "ublock-filters",
+    "user-filters"
+  ],
+  "hiddenSettingsString": "assetFetchTimeout 30\nautoUpdateAssetFetchPeriod 120\nautoUpdatePeriod 7\nignoreRedirectFilters false\nignoreScriptInjectFilters false\nmanualUpdateAssetFetchPeriod 2000\npopupFontSize unset\nsuspendTabsUntilReady false\nuserResourcesLocation unset",
+  "netWhitelist": "about-scheme\nbehind-the-scene\nchrome-extension-scheme\nchrome-scheme\nfile-scheme\nmoz-extension-scheme\nopera-scheme\ntogekk.github.io\nvivaldi-scheme\nwww.booking.com\nwww.facebook.com",
+  "dynamicFilteringString": "behind-the-scene * 3p-frame noop\nbehind-the-scene * 3p noop\n* * 3p-script block\n* * 3p-frame block\n* * 3p block\nwww.amazon.com duretogglc1iq.cloudfront.net * noop\nwww.amazon.com ssl-images-amazon.com * noop\nwww.facebook.com fbcdn.net * noop\nrobertabcd.github.io unpkg.com * noop\nrobertabcd.github.io ptt.cc * noop\nuserstyles.org cloudflare.com * noop\nrobertabcd.github.io imgur.com * noop\nwww.youtube.com ytimg.com * noop\nwww.flickr.com staticflickr.com * noop\nwww.flickr.com yimg.com * noop\nwww.google.com.tw gstatic.com * noop\nwww.google.com.tw ggpht.com * noop\nwww.google.com.tw googleusercontent.com * noop\nwww.youtube.com googlevideo.com * noop\nplay.google.com gstatic.com * noop\nplay.google.com googleusercontent.com * noop\naccounts.google.com googleusercontent.com * noop\nplay.google.com ajax.googleapis.com * noop\nduckduckgo.com youtube-nocookie.com * noop\nduckduckgo.com ytimg.com * noop\nduckduckgo.com searchpreview.de * noop\nduckduckgo.com googlevideo.com * allow\nduckduckgo.com imgur.com * noop\nplus.google.com googleusercontent.com * noop\n500px.com 500px.org * noop\nbingwallpaper.com bing.com * noop\nwww.bing.com bing.net * noop\nwww.facebook.com staticflickr.com * noop\nkeep.google.com fonts.googleapis.com * noop\nkeep.google.com gstatic.com * noop\nwww.sogi.com.tw d11l21ofu1mzsa.cloudfront.net * noop\nwww.sogi.com.tw d2lfcsub12kx0l.cloudfront.net * noop\nwww.imdb.com media-imdb.com * noop\nwww.imdb.com ssl-images-amazon.com * noop\nshopee.tw akamaihd.net * noop\nirs.thsrc.com.tw ajax.googleapis.com * noop\nwww.booking.com bstatic.com * noop\nsecure.booking.com bstatic.com * noop\nsecure.booking.com google.com * noop\nwww.facebook.com biji.co * allow\nwww.amazon.com amazonaws.com * noop\nwww.reddit.com redditmedia.com * noop\nwww.reddit.com redditstatic.com * noop\nwww.facebook.com youtube.com * noop\ndocs.angularjs.org ajax.googleapis.com * noop\nsocial.technet.microsoft.com s-msft.com * noop\nstackoverflow.com sstatic.net * noop\nstackoverflow.com imgur.com * noop\nthisisarcore.com fonts.googleapis.com * noop\nthisisarcore.com ajax.googleapis.com * noop\nthisisarcore.com twitter.com * noop\nthisisarcore.com youtube.com * noop\nthisisarcore.com vimeo.com * noop\nthisisarcore.com google.com * noop\nthisisarcore.com ytimg.com * noop\nthisisarcore.com storage.googleapis.com * noop\nthisisarcore.com gstatic.com * noop\nthisisarcore.com googlevideo.com * noop\nscreenshots.firefox.com firefoxusercontent.com * noop\nwww.dropbox.com dropboxusercontent.com * noop\nwww.dropbox.com dropboxstatic.com * allow\nplus.google.com gstatic.com * noop\nsketchfab.com d1jlf623bx36qa.cloudfront.net * noop\nsketchfab.com dg5bepmjyhz9h.cloudfront.net * noop\nsketchfab.com sketchfab.com * allow",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-strict-blocking: shopee.tw true\nno-strict-blocking: secure.booking.com true\nno-strict-blocking: tw.hiking.biji.co true\nno-strict-blocking: www.airasia.com true\nno-strict-blocking: blog.sketchfab.com true",
+  "userFilters": "",
+  "filterLists": {
+    "https://raw.githubusercontent.com/jspenguin2017/uBlockProtector/master/uBlockProtectorList.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt": {
+      "off": false
+    },
+    "https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/fanboy-vietnam.txt": {
+      "off": false
+    },
+    "https://adguard.com/filter-rules.html?id=13": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/fanboy-swedish.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistspanish.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/advblock.txt": {
+      "off": false
+    },
+    "https://adguard.com/en/filter-rules.html?id=1": {
+      "off": false
+    },
+    "POL-1": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistdutch.txt": {
+      "off": false
+    },
+    "https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt": {
+      "off": false
+    },
+    "http://margevicius.lt/easylistlithuania.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/yous/YousList/master/youslist.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/gfmaster/adblock-korea-contrib/master/filter.txt": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/fanboy-korean.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistitaly.txt": {
+      "off": false
+    },
+    "https://dl.dropboxusercontent.com/u/1289327/abpxfiles/filtri.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt": {
+      "off": false
+    },
+    "http://adblock.gardar.net/is.abp.txt": {
+      "off": false
+    },
+    "IRN-0": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt": {
+      "off": false
+    },
+    "https://www.void.gr/kargig/void-gr-filters.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/liste_fr.txt": {
+      "off": false
+    },
+    "http://adb.juvander.net/Finland_adb.txt": {
+      "off": false
+    },
+    "http://adblock.ee/list.php": {
+      "off": false
+    },
+    "https://adblock.dk/block.csv": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistgermany.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistchina.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt": {
+      "off": false
+    },
+    "http://stanev.org/abp/adblock_bg.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/Liste_AR.txt": {
+      "off": false
+    },
+    "assets/thirdparties/pgl.yoyo.org/as/serverlist": {
+      "off": false
+    },
+    "http://winhelp2002.mvps.org/hosts.txt": {
+      "off": false
+    },
+    "http://hosts-file.net/.%5Cad_servers.txt": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/r/fanboy-ultimate.txt": {
+      "off": false
+    },
+    "http://someonewhocares.org/hosts/hosts": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/fanboy-social.txt": {
+      "off": false
+    },
+    "fanboy-cookiemonster": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/fanboy-antifacebook.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt": {
+      "off": false
+    },
+    "adguard-annoyance": {
+      "off": false
+    },
+    "https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt": {
+      "off": false
+    },
+    "https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt": {
+      "off": false
+    },
+    "assets/thirdparties/mirror1.malwaredomains.com/files/justdomains": {
+      "off": false
+    },
+    "assets/thirdparties/www.malwaredomainlist.com/hostslist/hosts.txt": {
+      "off": false
+    },
+    "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt": {
+      "off": false
+    },
+    "https://www.fanboy.co.nz/enhancedstats.txt": {
+      "off": false
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt": {
+      "off": false
+    },
+    "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt": {
+      "off": false
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easylist.txt": {
+      "off": false
+    },
+    "adguard-generic": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt": {
+      "off": false
+    },
+    "aak-continued": {
+      "off": false
+    },
+    "assets/ublock/unbreak.txt": {
+      "off": false
+    },
+    "assets/ublock/privacy.txt": {
+      "off": false
+    },
+    "assets/ublock/experimental.txt": {
+      "off": false
+    },
+    "assets/ublock/badware.txt": {
+      "off": false
+    },
+    "assets/ublock/filters.txt": {
+      "off": false
+    },
+    "assets/user/filters.txt": {
+      "off": false
+    }
+  }
+}
